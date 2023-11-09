@@ -1,4 +1,5 @@
 #include "windows.h"
+#include <SDKDDKVer.h>
 
 typedef struct _HIDING_INFO
 {
