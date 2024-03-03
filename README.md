@@ -34,7 +34,7 @@ KERNEL-SHELLCODE-HIDING-BY-PTE
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c14 c21 c8 c24">Ramon Gonzalez Gaztelupe</span>
+<span class="c14 c21 c8 c24">RajKit</span>
 
 </td>
 
