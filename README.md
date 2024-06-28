@@ -14,8 +14,6 @@ KERNEL-SHELLCODE-HIDING-BY-PTE
 
 <td class="c30" colspan="1" rowspan="1">
 
-<span class="c13 c8 c31">REVERSING DE SISTEMAS WINDOWS</span><span class="c13 c8 c27"> </span>
-
 </td>
 
 </tr>
